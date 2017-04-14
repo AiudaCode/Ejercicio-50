@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1492150154 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 50\main.cpp
+	<iostream>
+	"Logica.h"
+	"Laptop.h"
+	"stdlib.h"
+
+1492147978 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 50\include\logica.h
+	"Laptop.h"
+	<iostream>
+
+1492151231 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 50\include\laptop.h
+	<iostream>
+
+1492147675 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 50\src\laptop.cpp
+	"Laptop.h"
+
+1492150169 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 50\src\logica.cpp
+	"Logica.h"
+
